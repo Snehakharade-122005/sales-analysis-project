@@ -35,6 +35,18 @@ The project generates visual graphs that help in understanding:
 
 These visualizations make it easier to interpret the sales data and identify patterns.
 
+## Business Insights
+
+From the analysis, the following insights were observed:
+
+- Certain product categories generate higher sales compared to others.
+- Some regions contribute more revenue than others.
+- Businesses can focus on high-performing categories to increase overall revenue.
+
+## Recommendation
+
+The company should invest more in marketing and inventory for the top-performing product categories and regions to maximize profit and improve sales growth.
+
 ## Author
 
 Sneha Dilip Kharade
